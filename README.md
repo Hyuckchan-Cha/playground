@@ -1,6 +1,6 @@
 # playground
 
-Small things I built in high school and college, just because I wanted to try them.
+Small things I built in high school and university, just because I wanted to try them.
 
 > **Note**
 > These are personal and coursework experiments, not polished projects. The code is not optimized or refactored, and some of it reflects what I knew at the time. I keep it here to show what I have tried, not as examples of best practice.
